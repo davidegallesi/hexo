@@ -6,7 +6,7 @@
   <link href="http://davidegallesi.github.io/minimal/atom.xml" rel="self"/>
   
   <link href="http://davidegallesi.github.io/minimal/"/>
-  <updated>2021-03-05T14:42:25.932Z</updated>
+  <updated>2021-03-05T14:47:14.221Z</updated>
   <id>http://davidegallesi.github.io/minimal/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://davidegallesi.github.io/minimal/2021/03/05/test/"/>
     <id>http://davidegallesi.github.io/minimal/2021/03/05/test/</id>
     <published>2021-03-05T14:39:09.000Z</published>
-    <updated>2021-03-05T14:42:25.932Z</updated>
+    <updated>2021-03-05T14:47:14.221Z</updated>
     
-    <content type="html"><![CDATA[<p>Questo è un post di prova solo per provare la pubblicazione con <code>hexo</code>.</p><p>Mi pare di capire che supporti il <em>markdown</em>, non so se posso utilizzare il <em>multi markdown</em> ovvero:</p><ul><li>tabelle</li><li>footnotes</li><li>e altro</li></ul><p>Proviamo intanto un po’ di tipografia.</p><h1 id="Tipografia"><a href="#Tipografia" class="headerlink" title="Tipografia"></a>Tipografia</h1><p><strong>grassetto</strong></p><p><em>corsivo</em></p><p><del>barrato</del> vediamo se funziona</p>]]></content>
+    <content type="html"><![CDATA[<p>Questo è un post di prova solo per provare la pubblicazione con <code>hexo</code>.</p><p>Mi pare di capire che supporti il <em>markdown</em>, non so se posso utilizzare il <em>multi markdown</em> ovvero:</p><ul><li>tabelle</li><li>footnotes</li><li>e altro</li></ul><p>Proviamo intanto un po’ di tipografia.</p><h1 id="Tipografia"><a href="#Tipografia" class="headerlink" title="Tipografia"></a>Tipografia</h1><p><strong>grassetto</strong></p><p><em>corsivo</em></p><p><del>barrato</del> vediamo se funziona.</p>]]></content>
     
     
       
