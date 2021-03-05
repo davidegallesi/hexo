@@ -3,11 +3,11 @@
   <title>Hexo</title>
   
   
-  <link href="http://davidegallesi.github.io/minimal/atom.xml" rel="self"/>
+  <link href="http://davidegallesi.github.io/hexo/atom.xml" rel="self"/>
   
-  <link href="http://davidegallesi.github.io/minimal/"/>
+  <link href="http://davidegallesi.github.io/hexo/"/>
   <updated>2021-03-05T14:47:14.221Z</updated>
-  <id>http://davidegallesi.github.io/minimal/</id>
+  <id>http://davidegallesi.github.io/hexo/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>test</title>
-    <link href="http://davidegallesi.github.io/minimal/2021/03/05/test/"/>
-    <id>http://davidegallesi.github.io/minimal/2021/03/05/test/</id>
+    <link href="http://davidegallesi.github.io/hexo/2021/03/05/test/"/>
+    <id>http://davidegallesi.github.io/hexo/2021/03/05/test/</id>
     <published>2021-03-05T14:39:09.000Z</published>
     <updated>2021-03-05T14:47:14.221Z</updated>
     
@@ -39,8 +39,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://davidegallesi.github.io/minimal/2021/03/05/hello-world/"/>
-    <id>http://davidegallesi.github.io/minimal/2021/03/05/hello-world/</id>
+    <link href="http://davidegallesi.github.io/hexo/2021/03/05/hello-world/"/>
+    <id>http://davidegallesi.github.io/hexo/2021/03/05/hello-world/</id>
     <published>2021-03-05T13:10:42.066Z</published>
     <updated>2021-03-05T13:10:42.066Z</updated>
     
